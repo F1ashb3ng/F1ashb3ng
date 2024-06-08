@@ -1,5 +1,5 @@
-Language
+## Language
 C/java/python/verilog/matlab
 
-Major
+## Major
 Electrical engineering/Information communication electronic engineering
